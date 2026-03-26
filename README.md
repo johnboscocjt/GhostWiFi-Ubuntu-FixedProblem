@@ -1,4 +1,3 @@
-# GhostyWiFi-Ubuntu-FixedProblem
 # 📄 Ubuntu WiFi Fix Documentation: "Ghost Hotspot" Conflict
 
 **Issue:** WiFi shows as connected in GUI but has no internet access. Requires reboot to fix temporarily.  
